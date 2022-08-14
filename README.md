@@ -1,6 +1,6 @@
 # Himan-2-Black-Screen-and-Resolution-Fix
-
-0.For Steam versions only:
+ 
+0. For Steam versions only:
 
 Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it into your Hitman 2 Silent Assassin  directory 
 
@@ -56,6 +56,7 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 4. Apply the fix again
 
 # NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
+
 # Credit goes to silentgameplayzz
 
 
